@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "HCI",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}

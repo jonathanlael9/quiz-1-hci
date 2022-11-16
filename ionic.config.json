@@ -1,0 +1,8 @@
+{
+  "name": "HCI",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "e4eb46dd"
+}
